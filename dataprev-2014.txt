@@ -1,0 +1,202 @@
+Conhecimentos Gerais de TI (Desenvolvimento e Infraestrutura)
+============================================================= 
+	Tecnologia da informação e sua aplicação; 
+	Análise, projeto, desenvolvimento e implementação de sistemas. 
+	Segurança no desenvolvimento; 
+	Controles internos e documentação de sistemas de informação; 
+	Estruturas de dados, conceitos e gerenciamento de bases de dados; 
+	Técnicas de extração, análise e comparação de dados; 
+	Processamento distribuído; 
+	Linguagens e procedimentos de programação de computadores; 
+
+	Sistemas operacionais
+	=====================
+	-> Conceitos básicos. 
+	-> Serviços de diretório. 
+	-> Interoperabilidade. 
+	-> Cloud Computing. 
+	-> Virtualização; 
+	
+	Operações,comunicações e redes de computadores
+	==============================================
+	-> protocolos, gerenciamento e arquitetura de gerenciamento, segurança em redes de computadores; 
+	
+	Tecnologias e arquitetura de Datacenter. 
+	========================================
+	-> Conceitos básicos. 
+	-> Serviços de armazenamento, padrões de disco e de interfaces. 
+	-> RAID. 
+
+Gestão e Governança de TI
+=========================
+	Governança de TI
+	================
+	-> COBIT 4.1: Conceitos básicos e objetivos. 
+	-> Requisitos da informação. 
+	-> Recursos de tecnologia da informação. 
+	-> Domínios, processos e objetivos de controle; 
+
+	Qualidade de software
+	=====================
+	-> CMMI e MPS‐BR: Conceitos básicos e objetivos. 
+	-> Disciplinas e formas de representação. 
+	-> Níveis de capacidade e maturidade. 
+	-> Processos e categorias de processos; 
+	
+	Gerenciamento de serviços de TI
+	===============================
+	‐> ITIL V3: Conceitos básicos e objetivos.
+	-> Processos e funções de estratégia, desenho, transição e operação de serviços. 
+	
+	Gerenciamento de projetos de TI
+	===============================
+	-> PMBOK: Projetos e a Organização. 
+	-> Escritório de projetos: modelos e características. 
+	-> Processos, grupos de processos e áreas de conhecimento. 
+	
+	Gestão de segurança da informação
+	===============================
+	‐> ABNT NBR ISO/IEC 27001:2006 e 27002:2005
+	‐> estrutura, objetivos e conceitos gerais. 
+	-> Sistema de Gestão da Segurança da Informação. 
+	-> Gestão de riscos: 
+		* planejamento, identificação e análise de riscos, plano de continuidade de negócio; 
+	-> Política de segurança da informação: 
+		* processos de definição, implantação e gestão de políticas de segurança e auditoria. 
+
+Outros Conhecimentos
+====================
+	Comunicação Oral e Escrita. 
+	Redação de relatórios técnicos. 
+	Inglês técnico. 
+	Legislação e Normas de previdência complementar. 
+
+	Banco de Dados
+	==============
+	-> Conceitos e arquitetura de bancos de dados relacional
+		* diagramas Entidade‐Relacionamento, Procedures, Functions, Triggers, Restrições de Integridade, Visões, gerenciamento de transações, segurança em banco de dados; 
+	-> Principais instruções e manipulação de dados usando SQL/ANSI;
+	-> Modelagem de Dados Relacional; 
+	-> Conceitos e arquitetura de Data Warehouse; 
+	-> Modelagem de Dados Dimensional; 
+	-> Conceitos em SGBD Oracle e PostgreSQL. 
+	
+	Gestão de Projetos de Software
+	==============================
+	-> Conceitos; 
+	-> Planejamento, Acompanhamento e Controle de Projetos (Gerência de Escopo, Estrutura de Decomposição de Tarefa – EDT, Gerência de Tempo, de Custos, de Qualidade, de Recursos Humanos, de Comunicação, de Riscos, de Aquisição e Gerência de Integração); 
+	-> Análise de Pontos de Função; 
+	-> Corpo de Conhecimento de Gerenciamento de Projetos (PMBOK).
+
+	Engenharia de Software
+	======================
+	-> Princípios de Engenharia de Software; 
+
+	Processos de Software
+	=====================
+	–> engenharia de sistemas e da informação; 
+	-> Engenharia de requisitos; 
+	-> Projeto (design); 
+	-> Verificação, Validação e testes; 
+	-> Processo de Testes de Software (Conceitos, Fases, Técnicas e Automação de Testes); 
+	-> Técnicas de Revisão de Software (Inspeção, Walkthrough, Pair Programming); 
+	-> Gerência de configuração; 
+	-> Planejamento, controle e garantia da qualidade e manutenção; 
+	-> Modelos de ciclo de vida (cascata, prototipação, evolutivo, incremental, espiral, iterativo); 
+
+	Processo de desenvolvimento de software unificado
+	=================================================
+	-> Unified Process; 
+	-> Modelos de melhoria de qualidade de processo e produto
+		* MPS.BR, CMM/CMMI, ISO 12207, ISO 9126.
+
+	Metodologias ágeis de desenvolvimento
+	=====================================
+	-> Scrum, XP, TDD, Modelagem Ágil, DDD, Kanban. 
+
+	Técnicas de Programação
+	=======================
+	-> Lógica formal; 
+	-> Algoritmos e estrutura de dados; 
+	-> Noções de complexidade de algoritmo; 
+	-> Estruturas sequenciais, condicionais e de repetição;
+
+	Programação orientada a objetos
+	===============================
+	-> Conceitos de orientação por objetos
+	-> Herança
+	-> Polimorfismo
+	-> Propriedades
+	-> Objetos
+	-> Classes
+	-> Interfaces
+	-> Métodos
+	-> Encapsulamento
+	-> Sobrecarga
+
+	Programação por eventos. 
+
+	Linguagens e Programação
+	========================
+	-> Linguagem Java
+	-> Expression Language
+	-> HTML4
+	-> HTML5
+	-> CSS e JavaScript. 
+
+	JAVA
+	=====
+	-> Arquitetura e padrões de projeto JEE. 
+	-> Desenvolvimento Web em Java. 
+	-> Servlets, Applet e Ajax. 
+	-> Frameworks JSF 2.0, EJB3 e JPA. 
+	-> IDE Eclipse. 
+	-> Conceito de servidor de aplicação Container web e EJB; 
+	-> Padrões e anti‐padrões de projeto Java EE; 
+	-> Uso avançado da linguagem Java; 
+	-> Java Code Conventions, Spring Batch.
+	-> Ferramentas case para Java. 
+
+	Padrão MVC de Projeto; 
+	Software para versionamento e guarda de fontes; 
+	IDE Eclipse. 
+	Desenvolvimento de aplicações e sistemas para dispositivos móveis. 
+	Maven. 
+	Interoperabilidade de sistemas. 
+	SOA e Web Services. 
+	Padrões XML, XSLT, UDDI, WSDL e Soap. 
+	Segurança no desenvolvimento, OWASP Top 10. 
+	Padrões de projeto. 
+	Arquitetura em três camadas. 
+	Técnicas de análise de desempenho e otimização de consultas SQL. 
+	Sistemas de suporte a decisão e gestão de conteúdo. 
+
+	Portais corporativos
+	====================
+	-> arquitetura da informação, portlets e RSS. 
+	-> Modelo de Acessibilidade do Governo Eletrônico. 
+	
+	Técnicas de Revisão de Software (Inspeção, Walkthrough, Pair Programming). 
+
+	Sistemas de suporte a decisão
+	=============================
+	-> Arquitetura, Projeto e Construção de Processos de DataWarehouse; 
+	-> Aplicações OLAP e ETL; 
+	Técnicas de Modelagem e otimização de Bases de Dados Multidimensionais; 
+	-> Conceitos de “Staging Area”, Cubos e Ferramentas OLAP e ETL. 
+	-> Big Data e Analytics. 
+
+	Teste de Software
+	=================
+	-> Conceitos de teste: tipos, padrões, métodos e processos.
+	-> Automatização de testes e ferramentas de suporte. 
+	-> Estratégias de teste. 
+	-> Ambiente de teste. 
+	-> Planejamento dos testes. 
+	-> Elaboração de testes.
+	-> Execução dos testes. 
+	-> Gerenciamento dos defeitos. 
+	-> Relatórios de teste. 
+	-> Análise e avaliação de riscos em projetos de teste de software. 
+	-> Métricas e estimativas aplicadas a teste de software. 
+	-> Testes Unitários e Mock.
